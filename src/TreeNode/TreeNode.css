@@ -1,0 +1,16 @@
+.disabled {
+  color: darkgrey;
+}
+.custom-icon {
+  padding: 0 0 0 10px;
+}
+
+.d-tree-node {
+  padding: 0.75rem 1.25rem;
+}
+.d-tree-toggler {
+  cursor: pointer;
+}
+.d-tree-toggler.active {
+  transform: rotate(90deg);
+}
