@@ -1,3 +1,13 @@
+<img width="773" alt="image" src="https://user-images.githubusercontent.com/26233555/177298900-743a4607-a95e-42a1-b923-117324def7d2.png">
+
+api requirments:
+list of objects, contains the following properties:
+key: <uniq key as string>,
+label: "string to display",
+type: "<will display the relevant icon, currently I support up to 6 different Icons (connrctions, db,schemas,schema,tables, colums) otherwise question mark will be displayed",
+nodes: <array of object of keys labels types and nodets etc.>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
