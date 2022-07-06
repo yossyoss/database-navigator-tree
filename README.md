@@ -1,5 +1,7 @@
 Api requirments:
+
 list of objects, contains the following properties:
+
 key: uniq key as string,
 
 label: string to display",
